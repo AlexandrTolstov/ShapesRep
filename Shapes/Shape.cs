@@ -13,6 +13,7 @@ namespace Shapes
         public virtual void Draw()
         {
             Console.WriteLine("Inside Shape.Draw()");
+
         }
     }
 }
